@@ -1,7 +1,7 @@
 {
   "name": "win-proc-info",
   "description": "Node native addon for the GetProcessMemoryInfo function of the Windows Process Status API.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
   "main": "index.js",
   "license": "MIT",
